@@ -3,3 +3,11 @@
 ################################################################################
 
 /Gma.QrCodeNet/Gma.QrCodeNet.Demo/obj/x86/Debug
+/Gma.QrCodeNet/Gma.QrCodeNet.Demo/bin/Debug
+/Gma.QrCodeNet/Gma.QrCodeNet.Encoder/bin/Release
+/Gma.QrCodeNet/Gma.QrCodeNet.Encoder/obj/Release
+/Gma.QrCodeNet/Gma.QrCodeNet.Encoding.Tests/bin/Debug
+/Gma.QrCodeNet/Gma.QrCodeNet.Encoding.Tests/obj/Debug
+/Gma.QrCodeNet/Gma.QrCodeNet.WPF.Demo/bin/Debug
+/Gma.QrCodeNet/Gma.QrCodeNet.WPF.Demo/obj/x86/Debug
+/Gma.QrCodeNet/.vs/Gma.QrCodeNet/v14
